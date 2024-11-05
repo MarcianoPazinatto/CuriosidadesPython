@@ -17,7 +17,7 @@ else:
 
 # Exemplo com for
 numeros = [1, 2, 3, 4, 5]
-procurado = 7
+procurado = 5
 
 for numero in numeros:
     if numero == procurado:
